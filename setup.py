@@ -16,7 +16,7 @@ setup(
           'matplotlib'
       ],
   classifiers=[
-    'Development Status :: 3 - Alpha',
+    'Development Status :: 3.1 - Alpha',
     'Intended Audience :: Developers',
     'Topic :: Software Development :: Build Tools',
     'License :: OSI Approved :: MIT License',
